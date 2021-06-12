@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  frameRate(180)
 }
 
 oldX = 200
